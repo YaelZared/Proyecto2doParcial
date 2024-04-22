@@ -1,0 +1,43 @@
+#Inicio{
+    display: flex;
+    width: 150px;
+    border-style: groove;
+    border-color: aquamarine;
+}
+#Buscar{
+    width: 150px;
+    border-style: groove;
+    margin-top: 5px;
+    border-color: aquamarine;
+    display: flex;
+}
+#Biblioteca{
+    width: 150px;
+    border-style: groove;
+    margin-top: 5px;
+    border-color: aquamarine;
+}
+#Playlist{
+    width: 10px;
+    display: flex;
+}
+#Atistas{
+    width: 10px;
+    display: flex;
+}
+#Albumes{
+    width: 10px;
+    display: flex;
+}
+#Portada{
+    display: flex;
+    margin-left: 200px;
+}
+#Titulo{
+    width: 300px;
+    margin-left: 20px;
+   
+}
+#Portada{
+    display: flex;
+}
